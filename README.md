@@ -1,4 +1,4 @@
-# quilhash Landing Page
+# QUILHASH Landing Page
 
 ## Built with HTML , CSS , Bootsrap 
 
